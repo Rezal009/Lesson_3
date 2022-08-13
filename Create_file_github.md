@@ -1,3 +1,3 @@
 ## Hello.
 ~~Зачёркнутый Текст~~.
-# [https://github.com/]
+# https://github.com/
